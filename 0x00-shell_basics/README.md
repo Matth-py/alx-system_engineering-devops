@@ -16,3 +16,5 @@ A script that create directory inside directory
 
 A new script to move file
 
+Deleting file script
+
