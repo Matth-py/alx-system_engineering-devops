@@ -13,3 +13,6 @@ A script to display current directory contents, including hidden files (starting
 A new script to display all content files with user and group IDs displayed numerically
 
 A script that create directory inside directory
+
+A new script to move file
+
