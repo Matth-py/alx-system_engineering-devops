@@ -5,3 +5,5 @@ Added a new script that print absolute path name of the current working director
 Added a second script that list the content of current directory
 
 Adding a new script that change working directory to user's home directory
+
+New script for displaying directory contents in a long format
