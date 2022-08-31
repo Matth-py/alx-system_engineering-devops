@@ -21,3 +21,5 @@ Deleting file script
 A script to delete a dir
 
 New script to change back to previous dir
+
+New script for list all
