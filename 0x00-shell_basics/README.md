@@ -7,3 +7,5 @@ Added a second script that list the content of current directory
 Adding a new script that change working directory to user's home directory
 
 New script for displaying directory contents in a long format
+
+A script to display current directory contents, including hidden files (starting with .) using long format
