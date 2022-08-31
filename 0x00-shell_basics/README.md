@@ -11,3 +11,5 @@ New script for displaying directory contents in a long format
 A script to display current directory contents, including hidden files (starting with .) using long format
 
 A new script to display all content files with user and group IDs displayed numerically
+
+A script that create directory inside directory
