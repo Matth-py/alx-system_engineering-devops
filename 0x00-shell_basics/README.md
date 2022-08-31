@@ -18,3 +18,4 @@ A new script to move file
 
 Deleting file script
 
+A script to delete a dir
