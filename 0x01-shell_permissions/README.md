@@ -4,3 +4,6 @@ A new script to change user
 
 Adding a script that prints the effective username of the current user
 
+Third script that prints all the groups the current user is part of
+
+
