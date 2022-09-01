@@ -25,3 +25,6 @@ New script to change back to previous dir
 New script for list all
 
 Adding a script to print file name
+
+New script Creating a symbolic link
+
