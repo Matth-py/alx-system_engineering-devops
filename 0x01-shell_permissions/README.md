@@ -8,4 +8,6 @@ Third script that prints all the groups the current user is part of
 
 A new script that changes the owner of the file
 
-fifth script that creates an empty file called hello 
+fifth script that creates an empty file called hello
+
+Added a  script that adds execute permission to the owner of the file hello 
