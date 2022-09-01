@@ -32,3 +32,6 @@ A new script to copy all specified extension file
 
 First adv script
 
+Adv script for removing emacs files with 
+~
+
