@@ -24,3 +24,7 @@ This readme file is for the task on shell redirection task
 8. file; adding a script that output the result of a command into a file
 
 9.	Last line duplicate script
+
+
+10. No more javascript
+Writing a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
