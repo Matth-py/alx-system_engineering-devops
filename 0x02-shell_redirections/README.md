@@ -11,3 +11,6 @@ This readme file is for the task on shell redirection task
 
 
 3. What about 2?: A script that display the content of /etc/passwd and /etc/hosts
+
+
+4. Last lines of a file; Adding script that Display the last 10 lines of /etc/passwd
