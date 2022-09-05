@@ -23,18 +23,4 @@ This readme file is for the task on shell redirection task
 
 8. file; adding a script that output the result of a command into a file
 
-8. file; adding a script that output the result of a command into a file
-
-8. file; adding a script that output the result of a command into a file
-
-8. file; adding a script that output the result of a command into a file
-
-8. file; adding a script that output the result of a command into a file
-
-8. file; adding a script that output the result of a command into a file
-
-8. file; adding a script that output the result of a command into a file
-
-8. file; adding a script that output the result of a command into a file
-
-
+9.	Last line duplicate script
