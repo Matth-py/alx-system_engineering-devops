@@ -8,3 +8,6 @@ This readme file is for the task on shell redirection task
 
 
 2. Let's display a file;A script that Display the content of the /etc/passwd file.
+
+
+3. What about 2?: A script that display the content of /etc/passwd and /etc/hosts
