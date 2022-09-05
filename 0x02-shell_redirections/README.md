@@ -18,3 +18,7 @@ This readme file is for the task on shell redirection task
 5.	"A new script to display the first 10 lines"
 
 6.	Adding a script that print the third line of a file
+
+7. file; wrote a new script that create a non empty file
+
+
