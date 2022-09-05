@@ -21,4 +21,20 @@ This readme file is for the task on shell redirection task
 
 7. file; wrote a new script that create a non empty file
 
+8. file; adding a script that output the result of a command into a file
+
+8. file; adding a script that output the result of a command into a file
+
+8. file; adding a script that output the result of a command into a file
+
+8. file; adding a script that output the result of a command into a file
+
+8. file; adding a script that output the result of a command into a file
+
+8. file; adding a script that output the result of a command into a file
+
+8. file; adding a script that output the result of a command into a file
+
+8. file; adding a script that output the result of a command into a file
+
 
