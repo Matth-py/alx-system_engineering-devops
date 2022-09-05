@@ -5,3 +5,6 @@ This readme file is for the task on shell redirection task
 
 
 1. Confused smiley; Writing new a script that displays a confused smiley "(Ôo)'.
+
+
+2. Let's display a file;A script that Display the content of the /etc/passwd file.
