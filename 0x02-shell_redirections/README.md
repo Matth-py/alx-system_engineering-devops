@@ -16,3 +16,5 @@ This readme file is for the task on shell redirection task
 4. Last lines of a file; Adding script that Display the last 10 lines of /etc/passwd
 
 5.	"A new script to display the first 10 lines"
+
+6.	Adding a script that print the third line of a file
